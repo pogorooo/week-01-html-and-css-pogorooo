@@ -1,10 +1,10 @@
 .header {
-    background-color: rgb(4, 87, 114);
+    background-color: rgb(4, 87, 114); /* background color to blue */
     padding: 20px;
 }
 
 body {
-    background-color: rgb(206, 236, 246);
+    background-color: rgb(206, 236, 246); /*background color to light blue*/
 }
 
 .container {
@@ -29,7 +29,6 @@ img {
 .skills {
     display: flex;
     justify-content: center;
-    list-style-type: none;
 }
 
 .skills img {
